@@ -1,4 +1,4 @@
-# 2D Sonar-Based Mapping System for AUV Localization
+# 2D Sonar-Based Mapping System for AUV Localization(df robotics ip68 underwater ultrasonic sensor (6m))
 
 Utilizing the SEN0598 underwater ultrasonic sensor.
 
