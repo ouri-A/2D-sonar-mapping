@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.so
+*.out
+dist/
+build/
+*.log
+*.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+.venv/
+*.venv
+
+# IDE & Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+nbproject/ # NetBeans
+*.swp # Vim swap files
+
+Data and Plot output (Uncomment if you don't want to commit example plots)
+plots/
+data/
+
+# Arduino IDE specific files (if any are generated in project root)
+# *.ino.cpp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.so
+*.out
+dist/
+build/
+*.log
+*.DS_Store
+
+# Virtual environment
+venv/
+env/
+.venv/
+*.venv
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Saved plots directory (if you want to keep plots local and not in repo)
+# If you want to commit example plots, then remove 'plots/' or be specific
+# plots/ # Uncomment if you don't want to commit generated plots
+
+# Arduino build files (if you use a build system locally)
+*.elf
+*.hex
+*.bin
+*.o
+*.a
+build-*/
+.build/
